@@ -27,6 +27,8 @@ android {
     sourceSets {
         main {
             res.srcDirs = [
+                    'src/main/res/layouts/splash',
+                    'src/main/res/layouts/on-boarding',
                     'src/main/res/layouts/home',
                     'src/main/res/layouts',
                     'src/main/res'
